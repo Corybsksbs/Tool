@@ -1,2 +1,2 @@
-# Tool
-Termux hacking
+os.system(Clear)
+print (hello)
